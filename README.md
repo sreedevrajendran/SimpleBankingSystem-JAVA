@@ -52,9 +52,3 @@ A beginner-friendly Java console application for basic banking operations:
 
 ---
 
-## ✨ Want More?
-- Add multiple accounts
-- Add transaction history
-- Add persistent storage
-
-Feel free to fork and add your own features!
